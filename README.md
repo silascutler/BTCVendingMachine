@@ -16,6 +16,9 @@ ___
 
 ##FAQ
 
+**Purpose**
+Create more practical, daily uses for Bitcoin
+
 **Aren't there other projects like this?**
 Yes and no.  Many of the current projects focus on the converting of currency (either EUR, CNY, USD ) to Bitcoin (BTC) or look at the software side of vending (Payment processing, inventory control, etc).  What this project is looking to do is start from an existing physical machine and build on the ability to accept payment. 
 
